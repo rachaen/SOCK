@@ -2,6 +2,9 @@
 
 ![sock-logo-color](https://user-images.githubusercontent.com/89503136/230081905-39f6ad61-ba5d-477c-b7c0-843e13eb3477.png)
 
+## 0.서비스 소개 영상
+[![Video Label](http://img.youtube.com/vi/SHkfcsrD5Do/0.jpg)](https://www.youtube.com/SHkfcsrD5Do)
+
 ## 1. 프로젝트 개요
 
 ### 1) 프로젝트 목표
